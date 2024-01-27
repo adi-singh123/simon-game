@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+.btn{
+    height:150px ;
+    width: 150px;
+    margin: 1.5px;
+    border-radius: 20%;
+    border: 2.5px solid #000;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 25px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.oneline , .twoline{
+    text-align: center;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.red{
+    background-color: #d95980;
+
+}
+.purple{
+    background-color: #859ff9;
+}
+.green{
+    background-color: #63aac0;
+}
+.white{
+    background-color: #fff;
+}
